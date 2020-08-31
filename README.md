@@ -1,4 +1,4 @@
-# json-python-methods
+# HTTP-python-methods
 Method of json.data getting
 
 
@@ -28,7 +28,8 @@ Method of json.data getting
 
 *3.)*
 
-    
+#with request
+##install requeat ex. on ubuntu $pip install reqest
 ```import requests
 
         r = requests.get('url')
