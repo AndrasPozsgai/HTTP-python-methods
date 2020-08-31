@@ -29,7 +29,7 @@ Method of json.data getting
 *3.)*
 
 # with request
-## install requeat ex. on ubuntu:$pip install reqest
+## install request ex. on ubuntu:$pip install request
 ```import requests
 
         r = requests.get('url')
