@@ -36,3 +36,11 @@ Method of json.data
 
         print r.json()    
 ```
+*4.)* 
+
+# Pandas, Data_reader
+### head:
+''' import pandas as pd
+    import pandas_datareader as pdr
+'''
+
