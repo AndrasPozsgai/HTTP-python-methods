@@ -1,5 +1,5 @@
 # HTTP-python-methods
-Method of json.data getting
+Method of json.data 
 
 
 *1.)*
