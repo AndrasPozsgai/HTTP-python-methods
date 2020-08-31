@@ -37,11 +37,10 @@ Method of json.data
 *4.)* 
 
 # Pandas, Data_reader
-## head:
 
- ```import pandas as pd
+
+```import pandas as pd
  
     import pandas_datareader as pdr
-    
- ```
+```
 
