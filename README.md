@@ -1,7 +1,6 @@
 # HTTP-python-methods
 Method of json.data 
 
-
 *1.)*
 
    
@@ -25,7 +24,6 @@ Method of json.data
 
       print data   
 ```
-
 *3.)*
 
 # with request
@@ -40,8 +38,10 @@ Method of json.data
 
 # Pandas, Data_reader
 ## head:
+
  ```import pandas as pd
  
     import pandas_datareader as pdr
+    
  ```
 
